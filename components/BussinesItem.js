@@ -5,6 +5,7 @@ function BussinesItem() {
   return (
     <div className="flex gap-3 p-4 border-b-[1px] border-purple-800">
       <Image
+        alt="img"
         src="/placeholder.jpg"
         width={100}
         height={90}
